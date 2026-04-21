@@ -198,7 +198,7 @@ export default function App() {
                        <div className="relative">
                           <div className="absolute w-3 h-3 bg-black rounded-full -left-[27px] top-1.5"></div>
                           <div className="font-bold text-lg leading-tight uppercase tracking-tight">Bachelor of Laws (LLB)<br/>Honors</div>
-                          <div className="text-gray-600 mt-1">Mountains of the Moon University</div>
+                          <div className="text-gray-600 mt-1">Uganda pentecostal University</div>
                        </div>
                     </div>
                  </div>
