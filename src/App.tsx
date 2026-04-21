@@ -21,9 +21,9 @@ import {
   Newspaper
 } from 'lucide-react';
 
-import heroImg from './assets/hero.jpg';
-import aboutImg from './assets/about.jpg';
-import insightsImg from './assets/insights.jpg';
+const heroImg = 'https://i.imgur.com/O5vpImO.jpeg';
+const aboutImg = 'https://i.imgur.com/tk5eaDb.jpeg';
+const insightsImg = 'https://i.imgur.com/3GeZSEC.jpeg';
 
 export default function App() {
   const [isMobileMenuOpen, setIsMobileMenuOpen] = useState(false);
